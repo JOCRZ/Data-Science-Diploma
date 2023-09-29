@@ -29,8 +29,12 @@ def predict_churn(age):
 if nav == 'Prediction':
     
     st.header('Probability to leave the Job')
+    
     age = st.text_input("Age")
-    s-level = st.slider('Satisfaction Level', 0, 130, 25)
+
+
+    age = st.slider('Please select a range of values',0.0, 1.0,0.64)
+    
     
 
 
