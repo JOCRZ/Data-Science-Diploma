@@ -19,8 +19,8 @@ if nav == 'Aim':
     if st.checkbox("Show Table"):
         st.table(data)
 
-def predict_churn(age):
-    input=np.array([[age]]).astype(np.float64)
+def predict_churn(x1,x2,x3,x4,x5,x6):
+    input=np.array([[x1,x2,x3,x4,x5,x6]]).astype(np.float64)
     prediction=model.predict(input)
     pred=prediction[0]
     return pred
@@ -30,18 +30,54 @@ if nav == 'Prediction':
     
     st.header('Probability to leave the Job')
     
-    age = st.slider('Satisfaction Level',0.0, 1.0,0.64)
-    age = st.text_input("Hours worked")
+    val1 = st.slider('Satisfaction Level',0.0, 1.0,0.64)
+    val2 = st.text_input("Hours worked")
+    ques = st.radio(
+
+    "Did you got Promoted last year",
+
+    ('No','Yes'))
+
+    if ques == 'Yes':
+        val3 = 1
+
+    if ques == 'No':
+        val3 = 0
+
+
+
+    choice = st.selectbox(
+
+    'Select your salary category',
+
+    ('Low','Medium','High'))
+        
     
+    if choice == 'Low':
+        high = 0
+        low = 1
+        medium = 0
     
+    if choice == 'Medium':
+        high = 0
+        low = 0
+        medium = 1 
+
+    if choice == 'High':
+        high = 1
+        low = 0
+        medium = 0
+
+
+
 
 
     if st.button("Predict"):
-        value = predict_churn(age)
+        value = predict_churn(val1,val2,val3,high,low,medium)
         if value == 0:
-            st.success('Not Buying Insurance')
+            st.success('Not Leaving the Firm')
         if value == 1:
-            st.success('Buying Insurance')
+            st.success('Leaving the Firm')
     
         
         
