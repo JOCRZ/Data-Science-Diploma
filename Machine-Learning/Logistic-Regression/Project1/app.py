@@ -30,7 +30,6 @@ if nav == 'Prediction':
     
     st.header('Probability to leave the Job')
     
-    age = st.text_input("Age")
     age = st.slider('Satisfaction Level',0.0, 1.0,0.64)
     age = st.text_input("Hours worked")
     
