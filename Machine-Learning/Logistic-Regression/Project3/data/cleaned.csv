@@ -1,0 +1,637 @@
+,team1,team2,toss_winner,toss_decision,result,winner
+0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad
+1,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant
+2,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+3,Rising Pune Supergiant,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+4,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore
+5,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad
+6,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+7,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Kings XI Punjab
+8,Delhi Capitals,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Delhi Capitals
+9,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+10,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+11,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+12,Rising Pune Supergiant,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions
+13,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kolkata Knight Riders
+14,Delhi Capitals,Kings XI Punjab,Delhi Daredevils,bat,normal,Delhi Capitals
+15,Gujarat Lions,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+16,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Rising Pune Supergiant
+17,Delhi Capitals,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Kolkata Knight Riders
+18,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad
+19,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,Royal Challengers Bangalore
+20,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad
+21,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+22,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions
+23,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,normal,Mumbai Indians
+24,Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant
+25,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,Kings XI Punjab
+26,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders
+27,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,field,normal,Rising Pune Supergiant
+28,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+29,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions
+30,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+31,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad
+32,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Rising Pune Supergiant
+33,Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,tie,Mumbai Indians
+34,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+35,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Sunrisers Hyderabad
+36,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,normal,Mumbai Indians
+37,Gujarat Lions,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant
+38,Sunrisers Hyderabad,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+39,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant
+40,Gujarat Lions,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+41,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kings XI Punjab
+42,Rising Pune Supergiant,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Rising Pune Supergiant
+43,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,normal,Mumbai Indians
+44,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+45,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions
+46,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,Sunrisers Hyderabad
+47,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab
+48,Gujarat Lions,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+49,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab
+50,Delhi Capitals,Rising Pune Supergiant,Delhi Daredevils,bat,normal,Delhi Capitals
+51,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad
+52,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Mumbai Indians
+53,Kings XI Punjab,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,Rising Pune Supergiant
+54,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore
+55,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,field,normal,Rising Pune Supergiant
+56,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+57,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+58,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,bat,normal,Mumbai Indians
+59,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders
+60,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings
+61,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,Delhi Capitals
+62,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Royal Challengers Bangalore
+63,Sunrisers Hyderabad,Kolkata Knight Riders,Deccan Chargers,bat,normal,Kolkata Knight Riders
+64,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,Rajasthan Royals
+65,Sunrisers Hyderabad,Delhi Capitals,Deccan Chargers,bat,normal,Delhi Capitals
+66,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Chennai Super Kings
+67,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+68,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab
+69,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+70,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings
+71,Mumbai Indians,Sunrisers Hyderabad,Deccan Chargers,field,normal,Sunrisers Hyderabad
+72,Delhi Capitals,Kings XI Punjab,Delhi Daredevils,bat,normal,Kings XI Punjab
+73,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings
+74,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Mumbai Indians
+75,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Delhi Capitals
+76,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+77,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Rajasthan Royals
+78,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,Delhi Capitals
+79,Sunrisers Hyderabad,Royal Challengers Bangalore,Deccan Chargers,bat,normal,Royal Challengers Bangalore
+80,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kings XI Punjab
+81,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,normal,Mumbai Indians
+82,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Rajasthan Royals
+83,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+84,Chennai Super Kings,Sunrisers Hyderabad,Deccan Chargers,field,normal,Sunrisers Hyderabad
+85,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+86,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings
+87,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+88,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+89,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+90,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,Chennai Super Kings
+91,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+92,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+93,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Kings XI Punjab
+94,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+95,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+96,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab
+97,Delhi Capitals,Sunrisers Hyderabad,Deccan Chargers,field,normal,Delhi Capitals
+98,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+99,Delhi Capitals,Kings XI Punjab,Delhi Daredevils,bat,normal,Kings XI Punjab
+100,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Rajasthan Royals
+101,Mumbai Indians,Sunrisers Hyderabad,Deccan Chargers,field,normal,Mumbai Indians
+102,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings
+103,Royal Challengers Bangalore,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+104,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+105,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab
+106,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore
+107,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+108,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+109,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Rajasthan Royals
+110,Royal Challengers Bangalore,Sunrisers Hyderabad,Deccan Chargers,field,normal,Royal Challengers Bangalore
+111,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders
+112,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+113,Sunrisers Hyderabad,Chennai Super Kings,Deccan Chargers,bat,normal,Chennai Super Kings
+114,Rajasthan Royals,Delhi Capitals,Delhi Daredevils,field,normal,Rajasthan Royals
+115,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,Chennai Super Kings
+116,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+117,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians
+118,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore
+119,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+120,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,Sunrisers Hyderabad
+121,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings
+122,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+123,Sunrisers Hyderabad,Royal Challengers Bangalore,Deccan Chargers,bat,normal,Sunrisers Hyderabad
+124,Delhi Capitals,Chennai Super Kings,Delhi Daredevils,bat,normal,Delhi Capitals
+125,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,tie,Rajasthan Royals
+126,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Kings XI Punjab
+127,Sunrisers Hyderabad,Mumbai Indians,Deccan Chargers,bat,normal,Sunrisers Hyderabad
+128,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,normal,Delhi Capitals
+129,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,Kings XI Punjab
+130,Chennai Super Kings,Sunrisers Hyderabad,Deccan Chargers,field,normal,Sunrisers Hyderabad
+131,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians
+132,Delhi Capitals,Rajasthan Royals,Delhi Daredevils,bat,normal,Rajasthan Royals
+133,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,Royal Challengers Bangalore
+134,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Kings XI Punjab
+135,Sunrisers Hyderabad,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+136,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings
+137,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians
+138,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore
+139,Sunrisers Hyderabad,Rajasthan Royals,Deccan Chargers,bat,normal,Rajasthan Royals
+140,Chennai Super Kings,Delhi Capitals,Delhi Daredevils,field,normal,Chennai Super Kings
+141,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,Kings XI Punjab
+142,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Royal Challengers Bangalore
+143,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,Chennai Super Kings
+144,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals
+145,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,Delhi Capitals
+146,Sunrisers Hyderabad,Mumbai Indians,Deccan Chargers,bat,normal,Sunrisers Hyderabad
+147,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+148,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings
+149,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,Delhi Capitals
+150,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+151,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings
+152,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Mumbai Indians
+153,Kolkata Knight Riders,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+154,Sunrisers Hyderabad,Rajasthan Royals,Deccan Chargers,bat,normal,Sunrisers Hyderabad
+155,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+156,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Mumbai Indians
+157,Delhi Capitals,Sunrisers Hyderabad,Deccan Chargers,field,normal,Delhi Capitals
+158,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Royal Challengers Bangalore
+159,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Rajasthan Royals
+160,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+161,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Chennai Super Kings
+162,Kolkata Knight Riders,Sunrisers Hyderabad,Deccan Chargers,field,normal,Sunrisers Hyderabad
+163,Kings XI Punjab,Sunrisers Hyderabad,Deccan Chargers,field,normal,Kings XI Punjab
+164,Delhi Capitals,Rajasthan Royals,Delhi Daredevils,bat,normal,Delhi Capitals
+165,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders
+166,Delhi Capitals,Royal Challengers Bangalore,Delhi Daredevils,bat,normal,Royal Challengers Bangalore
+167,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+168,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings
+169,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+170,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore
+171,Delhi Capitals,Sunrisers Hyderabad,Deccan Chargers,field,normal,Sunrisers Hyderabad
+172,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+173,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad
+174,Kolkata Knight Riders,Sunrisers Hyderabad,Deccan Chargers,field,normal,Kolkata Knight Riders
+175,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Mumbai Indians
+176,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+177,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+178,Sunrisers Hyderabad,Chennai Super Kings,Deccan Chargers,bat,normal,Sunrisers Hyderabad
+179,Rajasthan Royals,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+180,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,Royal Challengers Bangalore
+181,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Chennai Super Kings
+182,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,normal,Mumbai Indians
+183,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+184,Delhi Capitals,Chennai Super Kings,Delhi Daredevils,bat,normal,Chennai Super Kings
+185,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad
+186,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Rajasthan Royals
+187,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Royal Challengers Bangalore
+188,Sunrisers Hyderabad,Delhi Capitals,Deccan Chargers,bat,normal,Sunrisers Hyderabad
+189,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,tie,Kings XI Punjab
+190,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Mumbai Indians
+191,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Royal Challengers Bangalore
+192,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals
+193,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+194,Sunrisers Hyderabad,Rajasthan Royals,Deccan Chargers,bat,normal,Rajasthan Royals
+195,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+196,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Delhi Capitals
+197,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Rajasthan Royals
+198,Mumbai Indians,Sunrisers Hyderabad,Deccan Chargers,field,normal,Mumbai Indians
+199,Delhi Capitals,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Delhi Capitals
+200,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+201,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,Chennai Super Kings
+202,Delhi Capitals,Rajasthan Royals,Delhi Daredevils,bat,normal,Delhi Capitals
+203,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+204,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,Royal Challengers Bangalore
+205,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Chennai Super Kings
+206,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,Mumbai Indians
+207,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,Kings XI Punjab
+208,Delhi Capitals,Royal Challengers Bangalore,Delhi Daredevils,bat,normal,Delhi Capitals
+209,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,normal,Rajasthan Royals
+210,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Chennai Super Kings
+211,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,Rajasthan Royals
+212,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+213,Royal Challengers Bangalore,Sunrisers Hyderabad,Deccan Chargers,field,normal,Sunrisers Hyderabad
+214,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Kings XI Punjab
+215,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,Sunrisers Hyderabad
+216,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+217,Delhi Capitals,Kings XI Punjab,Delhi Daredevils,bat,normal,Kings XI Punjab
+218,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians
+219,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad
+220,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,Mumbai Indians
+221,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings
+222,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,Royal Challengers Bangalore
+223,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,Delhi Capitals
+224,Kings XI Punjab,Sunrisers Hyderabad,Deccan Chargers,field,normal,Sunrisers Hyderabad
+225,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians
+226,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Kolkata Knight Riders
+227,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings
+228,Sunrisers Hyderabad,Delhi Capitals,Deccan Chargers,bat,normal,Sunrisers Hyderabad
+229,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Kolkata Knight Riders
+230,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Mumbai Indians
+231,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,Chennai Super Kings
+232,Sunrisers Hyderabad,Royal Challengers Bangalore,Deccan Chargers,bat,normal,Royal Challengers Bangalore
+233,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Chennai Super Kings
+234,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Chennai Super Kings
+235,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+236,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,normal,Royal Challengers Bangalore
+237,Delhi Capitals,Mumbai Indians,Delhi Daredevils,bat,normal,Mumbai Indians
+238,Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,normal,Pune Warriors
+239,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+240,Delhi Capitals,Rajasthan Royals,Delhi Daredevils,bat,normal,Rajasthan Royals
+241,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+242,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+243,Kochi Tuskers Kerala,Pune Warriors,Kochi Tuskers Kerala,bat,normal,Pune Warriors
+244,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad
+245,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+246,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala
+247,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings
+248,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+249,Pune Warriors,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+250,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+251,Chennai Super Kings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala
+252,Sunrisers Hyderabad,Delhi Capitals,Deccan Chargers,bat,normal,Sunrisers Hyderabad
+253,Pune Warriors,Mumbai Indians,Pune Warriors,bat,normal,Mumbai Indians
+254,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kochi Tuskers Kerala
+255,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab
+256,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians
+257,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+258,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,normal,Delhi Capitals
+259,Mumbai Indians,Sunrisers Hyderabad,Deccan Chargers,field,normal,Mumbai Indians
+260,Kochi Tuskers Kerala,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+261,Chennai Super Kings,Pune Warriors,Pune Warriors,field,normal,Chennai Super Kings
+262,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+263,Pune Warriors,Chennai Super Kings,Pune Warriors,bat,normal,Chennai Super Kings
+264,Sunrisers Hyderabad,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Sunrisers Hyderabad
+265,Kolkata Knight Riders,Delhi Capitals,Delhi Daredevils,field,normal,Kolkata Knight Riders
+266,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+267,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,Royal Challengers Bangalore
+268,Delhi Capitals,Kochi Tuskers Kerala,Delhi Daredevils,bat,normal,Delhi Capitals
+269,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+270,Pune Warriors,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+271,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,Chennai Super Kings
+272,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,Mumbai Indians
+273,Delhi Capitals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala
+274,Kolkata Knight Riders,Sunrisers Hyderabad,Deccan Chargers,field,normal,Kolkata Knight Riders
+275,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings
+276,Mumbai Indians,Pune Warriors,Pune Warriors,field,normal,Mumbai Indians
+277,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kochi Tuskers Kerala
+278,Sunrisers Hyderabad,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+279,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore
+280,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders
+281,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,normal,Mumbai Indians
+282,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,normal,Royal Challengers Bangalore
+283,Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,normal,Pune Warriors
+284,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings
+285,Sunrisers Hyderabad,Pune Warriors,Deccan Chargers,bat,normal,Pune Warriors
+286,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab
+287,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+288,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,Chennai Super Kings
+289,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+290,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+291,Sunrisers Hyderabad,Mumbai Indians,Deccan Chargers,bat,normal,Sunrisers Hyderabad
+292,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,field,normal,Kings XI Punjab
+293,Rajasthan Royals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,Kochi Tuskers Kerala
+294,Pune Warriors,Sunrisers Hyderabad,Deccan Chargers,field,normal,Sunrisers Hyderabad
+295,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,Kings XI Punjab
+296,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,bat,normal,Chennai Super Kings
+297,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+298,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Rajasthan Royals
+299,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad
+300,Delhi Capitals,Pune Warriors,Delhi Daredevils,bat,no result,
+301,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+302,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+303,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings
+304,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+305,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Royal Challengers Bangalore
+306,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings
+307,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+308,Kolkata Knight Riders,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+309,Pune Warriors,Mumbai Indians,Mumbai Indians,field,normal,Pune Warriors
+310,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals
+311,Royal Challengers Bangalore,Delhi Capitals,Delhi Daredevils,field,normal,Royal Challengers Bangalore
+312,Chennai Super Kings,Sunrisers Hyderabad,Deccan Chargers,field,normal,Chennai Super Kings
+313,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Rajasthan Royals
+314,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,normal,Pune Warriors
+315,Sunrisers Hyderabad,Mumbai Indians,Deccan Chargers,bat,normal,Mumbai Indians
+316,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders
+317,Chennai Super Kings,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+318,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians
+319,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,Chennai Super Kings
+320,Pune Warriors,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+321,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Kolkata Knight Riders
+322,Sunrisers Hyderabad,Delhi Capitals,Deccan Chargers,bat,normal,Delhi Capitals
+323,Chennai Super Kings,Pune Warriors,Chennai Super Kings,bat,normal,Pune Warriors
+324,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab
+325,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,Rajasthan Royals
+326,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+327,Sunrisers Hyderabad,Rajasthan Royals,Deccan Chargers,bat,normal,Rajasthan Royals
+328,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,bat,normal,Royal Challengers Bangalore
+329,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders
+330,Sunrisers Hyderabad,Delhi Capitals,Deccan Chargers,bat,normal,Delhi Capitals
+331,Chennai Super Kings,Pune Warriors,Pune Warriors,field,normal,Chennai Super Kings
+332,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+333,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings
+334,Pune Warriors,Delhi Capitals,Delhi Daredevils,field,normal,Pune Warriors
+335,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Kings XI Punjab
+336,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+337,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Royal Challengers Bangalore
+338,Pune Warriors,Delhi Capitals,Pune Warriors,bat,normal,Delhi Capitals
+339,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Mumbai Indians
+340,Sunrisers Hyderabad,Pune Warriors,Deccan Chargers,bat,normal,Sunrisers Hyderabad
+341,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,Delhi Capitals
+342,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,Kings XI Punjab
+343,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+344,Delhi Capitals,Rajasthan Royals,Delhi Daredevils,bat,normal,Delhi Capitals
+345,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+346,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders
+347,Sunrisers Hyderabad,Pune Warriors,Deccan Chargers,bat,normal,Sunrisers Hyderabad
+348,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,Delhi Capitals
+349,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+350,Mumbai Indians,Pune Warriors,Mumbai Indians,bat,normal,Mumbai Indians
+351,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,Chennai Super Kings
+352,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+353,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,normal,Rajasthan Royals
+354,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+355,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+356,Delhi Capitals,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Kolkata Knight Riders
+357,Pune Warriors,Rajasthan Royals,Pune Warriors,bat,normal,Rajasthan Royals
+358,Kings XI Punjab,Sunrisers Hyderabad,Deccan Chargers,field,normal,Kings XI Punjab
+359,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+360,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings
+361,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,Royal Challengers Bangalore
+362,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians
+363,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings
+364,Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,normal,Rajasthan Royals
+365,Sunrisers Hyderabad,Kings XI Punjab,Deccan Chargers,bat,normal,Kings XI Punjab
+366,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+367,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings
+368,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,bat,normal,Delhi Capitals
+369,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Kolkata Knight Riders
+370,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+371,Royal Challengers Bangalore,Delhi Capitals,Delhi Daredevils,field,normal,Royal Challengers Bangalore
+372,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,normal,Sunrisers Hyderabad
+373,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+374,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+375,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad
+376,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Mumbai Indians
+377,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+378,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,Chennai Super Kings
+379,Chennai Super Kings,Delhi Capitals,Delhi Daredevils,field,normal,Chennai Super Kings
+380,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Kolkata Knight Riders
+381,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+382,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Royal Challengers Bangalore
+383,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,field,normal,Sunrisers Hyderabad
+384,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,normal,Rajasthan Royals
+385,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians
+386,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,normal,Kings XI Punjab
+387,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,Sunrisers Hyderabad
+388,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Rajasthan Royals
+389,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,Mumbai Indians
+390,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings
+391,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+392,Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,normal,Pune Warriors
+393,Delhi Capitals,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Sunrisers Hyderabad
+394,Mumbai Indians,Pune Warriors,Mumbai Indians,bat,normal,Mumbai Indians
+395,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings
+396,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+397,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+398,Pune Warriors,Chennai Super Kings,Pune Warriors,bat,normal,Pune Warriors
+399,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab
+400,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,tie,Royal Challengers Bangalore
+401,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,field,normal,Sunrisers Hyderabad
+402,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Rajasthan Royals
+403,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,Chennai Super Kings
+404,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,Sunrisers Hyderabad
+405,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,Chennai Super Kings
+406,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+407,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,Delhi Capitals
+408,Pune Warriors,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+409,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings
+410,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,Royal Challengers Bangalore
+411,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,field,normal,Kings XI Punjab
+412,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Mumbai Indians
+413,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,Chennai Super Kings
+414,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders
+415,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,Rajasthan Royals
+416,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Mumbai Indians
+417,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Chennai Super Kings
+418,Delhi Capitals,Pune Warriors,Pune Warriors,field,normal,Delhi Capitals
+419,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+420,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Mumbai Indians
+421,Chennai Super Kings,Pune Warriors,Chennai Super Kings,bat,normal,Chennai Super Kings
+422,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,Sunrisers Hyderabad
+423,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,Delhi Capitals
+424,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings
+425,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore
+426,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Kolkata Knight Riders
+427,Delhi Capitals,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Sunrisers Hyderabad
+428,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+429,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians
+430,Pune Warriors,Rajasthan Royals,Pune Warriors,bat,normal,Rajasthan Royals
+431,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,Royal Challengers Bangalore
+432,Delhi Capitals,Rajasthan Royals,Delhi Daredevils,bat,normal,Rajasthan Royals
+433,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,Mumbai Indians
+434,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Chennai Super Kings
+435,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+436,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+437,Royal Challengers Bangalore,Delhi Capitals,Delhi Daredevils,field,normal,Royal Challengers Bangalore
+438,Pune Warriors,Mumbai Indians,Pune Warriors,bat,normal,Mumbai Indians
+439,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad
+440,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+441,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+442,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+443,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,Mumbai Indians
+444,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Pune Warriors
+445,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,Chennai Super Kings
+446,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians
+447,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+448,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad
+449,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab
+450,Pune Warriors,Delhi Capitals,Pune Warriors,bat,normal,Pune Warriors
+451,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Royal Challengers Bangalore
+452,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,Sunrisers Hyderabad
+453,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Chennai Super Kings
+454,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,Rajasthan Royals
+455,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,Mumbai Indians
+456,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians
+457,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+458,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+459,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Kings XI Punjab
+460,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+461,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+462,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,Delhi Capitals
+463,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+464,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,Chennai Super Kings
+465,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kings XI Punjab
+466,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings
+467,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders
+468,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad
+469,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Chennai Super Kings
+470,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+471,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kings XI Punjab
+472,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,Delhi Capitals
+473,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,normal,Chennai Super Kings
+474,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+475,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,tie,Rajasthan Royals
+476,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,Sunrisers Hyderabad
+477,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,Chennai Super Kings
+478,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,Mumbai Indians
+479,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+480,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+481,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Rajasthan Royals
+482,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings
+483,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians
+484,Delhi Capitals,Kolkata Knight Riders,Delhi Daredevils,bat,normal,Kolkata Knight Riders
+485,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Kings XI Punjab
+486,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Sunrisers Hyderabad
+487,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kings XI Punjab
+488,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad
+489,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings
+490,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+491,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,Rajasthan Royals
+492,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,Mumbai Indians
+493,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,Chennai Super Kings
+494,Royal Challengers Bangalore,Delhi Capitals,Delhi Daredevils,field,normal,Royal Challengers Bangalore
+495,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+496,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+497,Rajasthan Royals,Delhi Capitals,Delhi Daredevils,field,normal,Rajasthan Royals
+498,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Royal Challengers Bangalore
+499,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,Kolkata Knight Riders
+500,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Mumbai Indians
+501,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+502,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,Sunrisers Hyderabad
+503,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+504,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+505,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders
+506,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad
+507,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,normal,Mumbai Indians
+508,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,Kings XI Punjab
+509,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings
+510,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+511,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,normal,Kings XI Punjab
+512,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+513,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,Kolkata Knight Riders
+514,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings
+515,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,Kings XI Punjab
+516,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+517,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+518,Chennai Super Kings,Delhi Capitals,Delhi Daredevils,field,normal,Chennai Super Kings
+519,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,Rajasthan Royals
+520,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,Chennai Super Kings
+521,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+522,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+523,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,Kings XI Punjab
+524,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad
+525,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,Rajasthan Royals
+526,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+527,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,bat,normal,Delhi Capitals
+528,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals
+529,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Chennai Super Kings
+530,Delhi Capitals,Sunrisers Hyderabad,Delhi Daredevils,bat,normal,Delhi Capitals
+531,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+532,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Rajasthan Royals
+533,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Mumbai Indians
+534,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+535,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,tie,Kings XI Punjab
+536,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Sunrisers Hyderabad
+537,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Chennai Super Kings
+538,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,Delhi Capitals
+539,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+540,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,Mumbai Indians
+541,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings
+542,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+543,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,Sunrisers Hyderabad
+544,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders
+545,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,no result,
+546,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Chennai Super Kings
+547,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+548,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,Mumbai Indians
+549,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+550,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,normal,Sunrisers Hyderabad
+551,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Mumbai Indians
+552,Rajasthan Royals,Delhi Capitals,Delhi Daredevils,field,normal,Rajasthan Royals
+553,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings
+554,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kolkata Knight Riders
+555,Delhi Capitals,Mumbai Indians,Delhi Daredevils,bat,normal,Mumbai Indians
+556,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore
+557,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,Sunrisers Hyderabad
+558,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Mumbai Indians
+559,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,Kolkata Knight Riders
+560,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad
+561,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore
+562,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,Chennai Super Kings
+563,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad
+564,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,Delhi Capitals
+565,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kings XI Punjab
+566,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Mumbai Indians
+567,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,Royal Challengers Bangalore
+568,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,Chennai Super Kings
+569,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,Rajasthan Royals
+570,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,no result,
+571,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,normal,Mumbai Indians
+572,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Mumbai Indians
+573,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore
+574,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Chennai Super Kings
+575,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,Mumbai Indians
+576,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,bat,normal,Rising Pune Supergiants
+577,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+578,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions
+579,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Royal Challengers Bangalore
+580,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+581,Rising Pune Supergiants,Gujarat Lions,Rising Pune Supergiants,bat,normal,Gujarat Lions
+582,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+583,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,Kolkata Knight Riders
+584,Mumbai Indians,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions
+585,Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,bat,normal,Kings XI Punjab
+586,Royal Challengers Bangalore,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+587,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad
+588,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+589,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+590,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad
+591,Royal Challengers Bangalore,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Royal Challengers Bangalore
+592,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,Delhi Capitals
+593,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad
+594,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,bat,normal,Gujarat Lions
+595,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+596,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,Mumbai Indians
+597,Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Rising Pune Supergiants
+598,Gujarat Lions,Delhi Capitals,Delhi Daredevils,field,normal,Gujarat Lions
+599,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+600,Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions
+601,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Delhi Capitals
+602,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Sunrisers Hyderabad
+603,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,Kings XI Punjab
+604,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+605,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Kolkata Knight Riders
+606,Gujarat Lions,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+607,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,Kolkata Knight Riders
+608,Delhi Capitals,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Rising Pune Supergiants
+609,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad
+610,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+611,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,field,normal,Kings XI Punjab
+612,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,normal,Sunrisers Hyderabad
+613,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions
+614,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore
+615,Sunrisers Hyderabad,Rising Pune Supergiants,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad
+616,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians
+617,Sunrisers Hyderabad,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+618,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,Kings XI Punjab
+619,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,Royal Challengers Bangalore
+620,Rising Pune Supergiants,Kolkata Knight Riders,Rising Pune Supergiants,bat,normal,Kolkata Knight Riders
+621,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,Sunrisers Hyderabad
+622,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,normal,Mumbai Indians
+623,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+624,Delhi Capitals,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Rising Pune Supergiants
+625,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,Royal Challengers Bangalore
+626,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions
+627,Sunrisers Hyderabad,Delhi Capitals,Delhi Daredevils,field,normal,Delhi Capitals
+628,Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,bat,normal,Rising Pune Supergiants
+629,Mumbai Indians,Gujarat Lions,Gujarat Lions,field,normal,Gujarat Lions
+630,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kolkata Knight Riders
+631,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+632,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Royal Challengers Bangalore
+633,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Sunrisers Hyderabad
+634,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Sunrisers Hyderabad
+635,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad
