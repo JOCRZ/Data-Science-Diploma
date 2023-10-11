@@ -73,9 +73,9 @@ if nav == 'Prediction':
     col6,col7 = st.columns(2)
 
     with col6:
-        crate = int(st.number_input('Current run rate', step=1,format="%.2f"))
+        crate = int(st.number_input('Current run rate', min_value=0.0, step=1e-6,format="%.2f"))
     with col7:
-        rrate = int(st.number_input('Require run rate', step=1,format="%.2f"))
+        rrate = int(st.number_input('Required run rate', min_value=0.0, step=1e-6,format="%.2f"))
 
 
    
