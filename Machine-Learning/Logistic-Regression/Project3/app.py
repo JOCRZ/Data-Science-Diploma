@@ -58,43 +58,27 @@ if nav == 'Prediction':
         team2 = st.selectbox(
         'Select the bowling team',sorted(teams))
 
-    val1 = st.slider('Satisfaction Level',0.0, 1.0,0.64)
-    val2 = st.text_input("Hours worked")
-    ques = st.radio(
+    Target = st.number_input('Target Score')
 
-    "Did you got Promoted last year",
+    col3,col4,col5 = st.columns(3)
+    with col3:
+        cscore = int(st.number_input('Score', step=1))
 
-    ('No','Yes'))
-
-    if ques == 'Yes':
-        val3 = 1
-
-    if ques == 'No':
-        val3 = 0
-
-
-
-    choice = st.selectbox(
-
-    'Select your salary category',
-
-    ('Low','Medium','High'))
-        
+    with col4:
+        overs = int(st.number_input('Over', step=1))
     
-    if choice == 'Low':
-        high = 0
-        low = 1
-        medium = 0
-    
-    if choice == 'Medium':
-        high = 0
-        low = 0
-        medium = 1 
+    with col5:
+        wickets = int(st.number_input('Wickets', step=1))
 
-    if choice == 'High':
-        high = 1
-        low = 0
-        medium = 0
+    col6,col7 = st.columns(2)
+
+    with col6:
+        crate = int(st.number_input('Current run rate', step=1,format="%.2f"))
+    with col7:
+        rrate = int(st.number_input('Require run rate', step=1,format="%.2f"))
+
+
+   
 
 
 
