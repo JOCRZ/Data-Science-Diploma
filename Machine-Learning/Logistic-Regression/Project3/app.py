@@ -112,11 +112,24 @@ if nav == 'Prediction':
                     lossprob = result[0][0]
                     winprob = result[0][1]
                     
-                
+                    
+                    if winprob > lossprob:
+                        color1 = "green"
+                        color2 = "red"
+                    elif winprob < lossprob:
+                        color1 = "red"
+                        color2 = "green"
+                    else:
+                        color1 = "blue"
+                        color2 = "blue"
 
-                    st.header(team1+"- "+str(round(winprob*100))+"%")
 
-                    st.header(team2+"- "+str(round(lossprob*100))+"%")  
+                    col6, col7 = st.columns(2)
+                    with col6:
+                        st.markdown(f'<p style="color:{color1};">{team1}- {str(round(winprob*100))}%</p>', unsafe_allow_html=True)
+                    with col7:
+                        st.markdown(f'<p style="color:{color2};">{team2}- {str(round(lossprob*100))}%</p>', unsafe_allow_html=True)
+                                    
 
                     
         else:
