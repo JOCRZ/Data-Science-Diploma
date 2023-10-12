@@ -36,13 +36,6 @@ if nav == 'Aim':
 
     
 
-def predict_churn(x1,x2,x3,x4,x5,x6):
-    input=np.array([[x1,x2,x3,x4,x5,x6]]).astype(np.float64)
-    prediction=model.predict(input)
-    pred=prediction[0]
-    return pred
-
-
 if nav == 'Prediction':
     
     st.header('Probability to win ')
@@ -58,38 +51,75 @@ if nav == 'Prediction':
         team2 = st.selectbox(
         'Select the bowling team',sorted(teams))
 
-    Target = st.number_input('Target Score')
+    target = st.number_input('Target Score')
 
     col3,col4,col5 = st.columns(3)
     with col3:
-        cscore = int(st.number_input('Score', step=1))
+        cscore = int(st.number_input('Current Score', step=1))
 
     with col4:
-        overs = int(st.number_input('Over', step=1))
+        overs = int(st.number_input('Overs Completed', step=1))
     
     with col5:
-        wickets = int(st.number_input('Wickets', step=1))
-
-    col6,col7 = st.columns(2)
-
-    with col6:
-        crate = int(st.number_input('Current run rate', min_value=0.0, step=1e-6,format="%.2f"))
-    with col7:
-        rrate = int(st.number_input('Required run rate', min_value=0.0, step=1e-6,format="%.2f"))
+        wickets = int(st.number_input('Wickets Fallen', step=1))
 
 
-   
-
-
-
-
-
-    if st.button("Predict"):
-        value = predict_churn(val1,val2,val3,high,low,medium)
-        if value == 0:
-            st.success('Not Leaving the Firm')
-        if value == 1:
-            st.success('Leaving the Firm')
+    if cscore > target:
+        st.write(team1," Won the Match")
     
+    elif cscore == target-1 and overs==20:
+        st.write("Match Ended in a Draw")
+    
+    elif wickets==10 and cscore < target-1:
+        st.write(team2," Won the Match")
+
         
+    elif wickets==10 and cscore == target-1:
+        st.write('Match tied')
         
+    elif team1==team2:
+        st.write('To proceed, please select different teams because no match can be played between the same teams')
+
+
+
+    else:
+
+        if target >= 0 and target <= 300  and overs >= 0 and overs <=20 and wickets <= 10 and wickets>=0 and cscore>= 0:
+            
+            if st.button("Predict"):
+                    
+                        
+                    # Calculating the number of runs left for the batting team to win
+                    runs_left = target - cscore 
+                    
+                    # Calculating the number of balls left 
+                    balls_left = 120-(overs*6)
+                    
+                    # Calculating the number of wickets left for the batting team
+                    wickets = 10-wickets
+                    
+                    # Calculating the current Run-Rate of the batting team
+                    currentrunrate = cscore / overs
+                    
+                    # Calculating the Required Run-Rate for the batting team to win
+                    requiredrunrate = (runs_left*6)/balls_left
+
+                    values = pd.DataFrame({'batting_team':[team1], 'bowling_team':[team2], 'city':[city], 'runs_left':[runs_left], 'balls_left':[balls_left],
+                'wickets_left':[wickets], 'total_runs_x':[target], 'cur_run_rate':[currentrunrate], 'req_run_rate':[requiredrunrate]})
+                    
+                    result = model.predict_proba(values)
+
+                    lossprob = result[0][0]
+                    winprob = result[0][1]
+                    
+                
+
+                    st.header(team1+"- "+str(round(winprob*100))+"%")
+
+                    st.header(team2+"- "+str(round(lossprob*100))+"%")  
+
+                    
+        else:
+            st.error('There is something wrong with the input, please fill the correct details')
+    
+    
