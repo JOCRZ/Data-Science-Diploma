@@ -31,14 +31,15 @@ st.image("data//ipl.png", width=500)
 
 nav = st.sidebar.radio("Navigation",["About Project","Prediction"])      
 
-if nav == 'Aim':
+if nav == 'About Project':
     st.markdown(""" #### Aim of the Project """)
+    st.text(""" Using IPL data set Create Features that can predict the win ratio""")
 
     
 
 if nav == 'Prediction':
     
-    st.header('Probability to win ')
+    st.header('Probability of Win Ratio')
     
     city = st.selectbox(
     'Select the city where match is played',sorted(cities))
@@ -126,9 +127,9 @@ if nav == 'Prediction':
 
                     col6, col7 = st.columns(2)
                     with col6:
-                        st.markdown(f'<p style="color:{color1};">{team1}- {str(round(winprob*100))}%</p>', unsafe_allow_html=True)
+                        st.markdown(f'<p style="color:{color1};">{team1} {str(round(winprob*100))}%</p>', unsafe_allow_html=True)
                     with col7:
-                        st.markdown(f'<p style="color:{color2};">{team2}- {str(round(lossprob*100))}%</p>', unsafe_allow_html=True)
+                        st.markdown(f'<p style="color:{color2};">{team2} {str(round(lossprob*100))}%</p>', unsafe_allow_html=True)
                                     
 
                     
